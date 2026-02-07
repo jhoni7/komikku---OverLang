@@ -1,10 +1,16 @@
 # komikku---OverLang
-en este código aun en la beta, solo se unió el código fuente de "komikku" más mi repositorio "OverLang" para brindar una traducción en tiempo real del contenido sin una app externa, mejorando la experencia del usurio.
+en este código aun en la beta, solo se unió el código fuente de "komikku" más mi repositorio "OverLang" para brindar una traducción en tiempo real del contenido sin una app externa, mejorando la experencia del usuario.
 
-nuevo menu con los controles para manejar el control de lenguaje de traduccion..
+nuevo menu para manejar el control de lenguaje de traduccion..
 
-<img width="374" height="774" alt="6fd6a405-360a-45cc-8ce2-9cadbe63f361" src="https://github.com/user-attachments/assets/3573923e-cc83-47ad-8571-332b354b6ea7" /><img width="368" height="774" alt="46b525b4-f118-4c44-b720-058130c6ada3" src="https://github.com/user-attachments/assets/cbd66759-efe3-48a0-8b22-01bc530eb70b" /><img width="374" height="780" alt="e033792d-d1cd-4a49-b62a-a015ee62f0e4" src="https://github.com/user-attachments/assets/080efc53-4c3a-4c71-9ad8-c592804f5b80" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3573923e-cc83-47ad-8571-332b354b6ea7" width="250" />
+  <img src="https://github.com/user-attachments/assets/cbd66759-efe3-48a0-8b22-01bc530eb70b" width="250" />
+  <img src="https://github.com/user-attachments/assets/080efc53-4c3a-4c71-9ad8-c592804f5b80" width="250" />
+</p>
 
+
+[![Probar](https://img.shields.io/badge/Link-Para%20su%20prueba-blue?style=for-the-badge)](https://drive.google.com/file/d/1bHLmn47J5wsjMoDq0pSpWtn79q8mqSdU/view?usp=drive_link)
 
 
 LINK oficial del repositorio original - https://github.com/komikku-app/komikku
