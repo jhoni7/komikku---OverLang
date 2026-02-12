@@ -1,4 +1,4 @@
-# komikku---OverLang
+# komikku---Daez
 en este código aun en la beta, solo se unió el código fuente de "komikku" más mi repositorio "OverLang" para brindar una traducción en tiempo real del contenido sin una app externa, mejorando la experencia del usuario.
 
 nuevo menu para manejar el control de lenguaje de traduccion..
